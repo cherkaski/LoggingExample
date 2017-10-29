@@ -11,4 +11,4 @@ For example, these are failry standard terminologies:
 
 Traditionally, we use only use `TRACE` and `DEBUG` in development. In production systems, we want to see message of `INFO` level and higher.
 
-In [step 4](https://github.com/csc301-fall2014/LoggingExample/tree/step4), we introduce the notion of levels.
+In [step 4](../../tree/step4), we introduce the notion of levels.
