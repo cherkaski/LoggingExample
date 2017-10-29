@@ -9,4 +9,4 @@ We start with a simple [`Main`](src/csc301/loggingExample/Main.java) class that 
 
 __New Requirement:__ We want to easily turn debug messages on/off.
 
-Let's see how we handle this case in [step 2](../tree/step2).
+Let's see how we handle this case in [step 2](../../tree/step2).
