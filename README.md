@@ -8,4 +8,4 @@ By doing so, we tell other developers that it is the `Logger`'s responsibility t
 
 __New Requirement:__ We want the same log messages to be written to _both_ the console and a file (and perhaps other places as well).
 
-Let's see how we deal with that in [step 8](https://github.com/csc301-fall2014/LoggingExample/tree/step8).
+Let's see how we deal with that in [step 8](../../tree/step8).
