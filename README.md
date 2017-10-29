@@ -9,4 +9,4 @@ if(DEBUG){
 }
 ```
 
-In [step 3](https://github.com/csc301-fall2014/LoggingExample/tree/step3), we will clean up our code, and move this functionality to a separate file/class.
+In [step 3](../../tree/step3), we will clean up our code, and move this functionality to a separate file/class.
